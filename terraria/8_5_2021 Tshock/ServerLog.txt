@@ -1,0 +1,72 @@
+[05/24/21 15:57:24] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[05/24/21 15:57:24] [Server API] Verbose: 	Command line: /home/container/TerrariaServer.exe -config /home/container/serverconfig.txt -ip 0.0.0.0 -configpath /home/container/config -logpath /home/container/logs
+[05/24/21 15:57:24] [Server API] Verbose: 	OS: Unix 4.15.0.96 (64bit: True)
+[05/24/21 15:57:24] [Server API] Verbose: 	Mono: True
+[05/24/21 15:57:24] [TShock] Verbose: Loading dedicated config file: /home/container/serverconfig.txt
+[05/24/21 15:57:24] [TShock] Verbose: Listening on IP 0.0.0.0.
+[05/24/21 15:57:24] [TShock] Info: Config path has been set to /home/container/config
+[05/24/21 15:57:24] [TShock] Info: Log path has been set to /home/container/logs
+[05/24/21 15:57:24] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[05/24/21 17:41:05] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[05/24/21 17:41:05] [Server API] Verbose: 	Command line: /home/container/TerrariaServer.exe -config /home/container/serverconfig.txt -ip 0.0.0.0 -configpath /home/container/config -logpath /home/container/logs
+[05/24/21 17:41:05] [Server API] Verbose: 	OS: Unix 4.15.0.96 (64bit: True)
+[05/24/21 17:41:05] [Server API] Verbose: 	Mono: True
+[05/24/21 17:41:06] [TShock] Verbose: Loading dedicated config file: /home/container/serverconfig.txt
+[05/24/21 17:41:06] [TShock] Verbose: Listening on IP 0.0.0.0.
+[05/24/21 17:41:06] [TShock] Info: Config path has been set to /home/container/config
+[05/24/21 17:41:06] [TShock] Info: Log path has been set to /home/container/logs
+[05/24/21 17:41:06] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[05/24/21 20:16:43] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[05/24/21 20:16:43] [Server API] Verbose: 	Command line: /home/container/TerrariaServer.exe -config /home/container/serverconfig.txt -ip 0.0.0.0 -configpath /home/container/config -logpath /home/container/logs
+[05/24/21 20:16:43] [Server API] Verbose: 	OS: Unix 4.15.0.96 (64bit: True)
+[05/24/21 20:16:43] [Server API] Verbose: 	Mono: True
+[05/24/21 20:16:43] [TShock] Verbose: Loading dedicated config file: /home/container/serverconfig.txt
+[05/24/21 20:16:43] [TShock] Verbose: Listening on IP 0.0.0.0.
+[05/24/21 20:16:43] [TShock] Info: Config path has been set to /home/container/config
+[05/24/21 20:16:43] [TShock] Info: Log path has been set to /home/container/logs
+[05/24/21 20:16:44] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[05/27/21 15:59:37] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[05/27/21 15:59:37] [Server API] Verbose: 	Command line: /home/container/TerrariaServer.exe -config /home/container/serverconfig.txt -ip 0.0.0.0 -configpath /home/container/config -logpath /home/container/logs
+[05/27/21 15:59:37] [Server API] Verbose: 	OS: Unix 4.15.0.96 (64bit: True)
+[05/27/21 15:59:37] [Server API] Verbose: 	Mono: True
+[05/27/21 15:59:37] [TShock] Verbose: Loading dedicated config file: /home/container/serverconfig.txt
+[05/27/21 15:59:37] [TShock] Verbose: Listening on IP 0.0.0.0.
+[05/27/21 15:59:37] [TShock] Info: Config path has been set to /home/container/config
+[05/27/21 15:59:37] [TShock] Info: Log path has been set to /home/container/logs
+[05/27/21 15:59:38] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[05/27/21 17:45:01] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[05/27/21 17:45:01] [Server API] Verbose: 	Command line: /home/container/TerrariaServer.exe -config /home/container/serverconfig.txt -ip 0.0.0.0 -configpath /home/container/config -logpath /home/container/logs
+[05/27/21 17:45:01] [Server API] Verbose: 	OS: Unix 4.15.0.96 (64bit: True)
+[05/27/21 17:45:01] [Server API] Verbose: 	Mono: True
+[05/27/21 17:45:01] [TShock] Verbose: Loading dedicated config file: /home/container/serverconfig.txt
+[05/27/21 17:45:01] [TShock] Verbose: Listening on IP 0.0.0.0.
+[05/27/21 17:45:01] [TShock] Info: Config path has been set to /home/container/config
+[05/27/21 17:45:01] [TShock] Info: Log path has been set to /home/container/logs
+[05/27/21 17:45:02] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[05/28/21 16:36:06] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[05/28/21 16:36:06] [Server API] Verbose: 	Command line: /home/container/TerrariaServer.exe -config /home/container/serverconfig.txt -ip 0.0.0.0 -configpath /home/container/config -logpath /home/container/logs
+[05/28/21 16:36:06] [Server API] Verbose: 	OS: Unix 4.15.0.106 (64bit: True)
+[05/28/21 16:36:06] [Server API] Verbose: 	Mono: True
+[05/28/21 16:36:06] [TShock] Verbose: Loading dedicated config file: /home/container/serverconfig.txt
+[05/28/21 16:36:06] [TShock] Verbose: Listening on IP 0.0.0.0.
+[05/28/21 16:36:06] [TShock] Info: Config path has been set to /home/container/config
+[05/28/21 16:36:06] [TShock] Info: Log path has been set to /home/container/logs
+[05/28/21 16:36:06] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[05/30/21 17:18:22] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[05/30/21 17:18:22] [Server API] Verbose: 	Command line: /home/container/TerrariaServer.exe -config /home/container/serverconfig.txt -ip 0.0.0.0 -configpath /home/container/config -logpath /home/container/logs
+[05/30/21 17:18:22] [Server API] Verbose: 	OS: Unix 4.15.0.106 (64bit: True)
+[05/30/21 17:18:22] [Server API] Verbose: 	Mono: True
+[05/30/21 17:18:22] [TShock] Verbose: Loading dedicated config file: /home/container/serverconfig.txt
+[05/30/21 17:18:22] [TShock] Verbose: Listening on IP 0.0.0.0.
+[05/30/21 17:18:22] [TShock] Info: Config path has been set to /home/container/config
+[05/30/21 17:18:22] [TShock] Info: Log path has been set to /home/container/logs
+[05/30/21 17:18:22] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/05/21 16:22:15] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/05/21 16:22:15] [Server API] Verbose: 	Command line: /home/container/TerrariaServer.exe -config /home/container/serverconfig.txt -ip 0.0.0.0 -configpath /home/container/config -logpath /home/container/logs
+[06/05/21 16:22:15] [Server API] Verbose: 	OS: Unix 4.15.0.96 (64bit: True)
+[06/05/21 16:22:15] [Server API] Verbose: 	Mono: True
+[06/05/21 16:22:15] [TShock] Verbose: Loading dedicated config file: /home/container/serverconfig.txt
+[06/05/21 16:22:15] [TShock] Verbose: Listening on IP 0.0.0.0.
+[06/05/21 16:22:15] [TShock] Info: Config path has been set to /home/container/config
+[06/05/21 16:22:15] [TShock] Info: Log path has been set to /home/container/logs
+[06/05/21 16:22:15] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.

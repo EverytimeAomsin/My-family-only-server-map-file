@@ -1,0 +1,11 @@
+2021-05-27 15:59:38 - TextLog: INFO: TShock 4.5.3.0 (Blood Moon edition) now running.
+2021-05-27 15:59:38 - TShock: INFO: AutoSave Enabled
+2021-05-27 15:59:38 - TShock: INFO: Backups Disabled
+2021-05-27 15:59:38 - TShock: INFO: Welcome to TShock for Terraria!
+2021-05-27 15:59:38 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-05-27 15:59:38 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-05-27 17:44:49 - Utils: INFO: Server executed: /exit.
+2021-05-27 17:44:49 - Utils: INFO: Broadcast: Saving world...
+2021-05-27 17:44:51 - Utils: INFO: Broadcast: World saved.
+2021-05-27 17:44:51 - SaveManager: INFO: World saved at (/home/container/.local/share/Terraria/Worlds/Myfamilyonly.wld)
+2021-05-27 17:44:51 - Utils: INFO: Broadcast: Server shutting down!
